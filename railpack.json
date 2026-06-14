@@ -1,7 +1,0 @@
-{
-  "$schema": "https://schema.railpack.com",
-  "providers": ["java"],
-  "packages": {
-    "java": "17"
-  }
-}
