@@ -739,9 +739,9 @@ class PortfolioController {
     <h2 style=\"margin-bottom: 20px; color:#38BDF8;\">Let's Connect</h2>
 
     <p>Email: kunalj.pa1997@gmail.com</p>
-    <p>LinkedIn: linkedin.com/in/kunal-patil-776244216</p>
-    <p>GitHub: github.com/your-profile</p>
-     <p>Contact No: 8169384879</p>
+    <a href="https://github.com/kunaljpa1997-alt" target="_blank">GitHub</a>
+    <a href="https://www.linkedin.com/in/kunal-patil-776244216" target="_blank">LinkedIn</a>
+    <p>Contact No: 8169384879</p>
 
     <br>
     <p>
